@@ -1,0 +1,10 @@
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\events\ResponseMessage.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\service\PublisherService.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\events\SignMessage.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\service\ConsumerService.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\config\RabbitConfigs.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\service\PublisherServiceImpl.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\processors\MockSignProcessor.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\RabbitMqVHostPocApplication.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\events\MessageEvent.java
+D:\021120\multi-rabbitmq-vhost\multirabbit\src\main\java\com\example\multirabbit\service\ConsumerServiceImpl.java

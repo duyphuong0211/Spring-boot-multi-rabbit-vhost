@@ -1,0 +1,10 @@
+com\example\multirabbit\events\ResponseMessage.class
+com\example\multirabbit\RabbitMqVHostPocApplication.class
+com\example\multirabbit\service\PublisherService.class
+com\example\multirabbit\service\ConsumerServiceImpl.class
+com\example\multirabbit\events\SignMessage.class
+com\example\multirabbit\config\RabbitConfigs.class
+com\example\multirabbit\events\MessageEvent.class
+com\example\multirabbit\service\PublisherServiceImpl.class
+com\example\multirabbit\processors\MockSignProcessor.class
+com\example\multirabbit\service\ConsumerService.class
